@@ -10,8 +10,6 @@ import (
 
 func main() {
 
-	fmt.Println("Hello!!")
-
 	// working code below - please do not delete
 	// Azure login credentials
 	// cli cmd 'az login --serivce-principal -u ARM_CLIENT_ID -p ARM_CLIENT_SECRET --tenant ARM_TENANT_ID'
